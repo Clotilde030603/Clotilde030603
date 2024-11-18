@@ -8,6 +8,12 @@
 어쩌구저쩌구 (감추고자 하는 내용)
 </summary>
 
+<span>
+  <a href="https://www.instagram.com/6unoyunr/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
+</span>
+
 <!--
 **Clotilde030603/Clotilde030603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

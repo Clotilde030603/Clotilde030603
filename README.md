@@ -1,5 +1,3 @@
-## PPOJJACKI
-
 <!--
 **Clotilde030603/Clotilde030603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Statistics
-<div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=Clotilde030603&show_icons=true&theme=holi" width = "49%" height="130%" />
-</div>
-<div>
-  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clotilde030603&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
-</div>
+
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=bad9af&height=240&text=Hi!%20PPOJJACKI's%20GitHub👋&animation=twinkling&fontColor=ffffff&fontSize=60" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Introduction💚 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 안녕하세요! 보안컨설턴트를 꿈꾸는 이가현입니다. </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=social&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=social&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=social&logo=Notion&logoColor=white">
+          </div>
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=https://learntoflyclotilde.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=social&logo=Tistory&logoColor=white&link=https://learntoflyclotilde.tistory.com/"> </a>
+          </div>  <br> 
+    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FClotilde030603%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+       </div> 
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Clotilde030603&bg_color=60,d9f5d1,accc94&title_color=6fa76c&text_color=6fa76c"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clotilde030603&layout=compact&bg_color=60,d9f5d1,accc94&title_color=6fa76c&text_color=6fa76c"
+           /> </div> 
+    </div>
+    

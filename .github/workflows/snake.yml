@@ -31,7 +31,7 @@ jobs:
           outputs: |
             # dist/github-contribution-grid-snake.svg
             # dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-snake-dark.svg?color_snake=#a1c1c9&color_dots=#8c7a73, #897167, #c1dcbc, #97ba91, #6a9861, #e0aebd
+            dist/github-snake-dark.svg?color_snake=#ecc440&color_dots=#8c7a73, #897167, #97ba91, #6a9861, #e0aebd
             
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch

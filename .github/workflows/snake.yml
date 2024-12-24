@@ -29,8 +29,9 @@ jobs:
         with:
           github_user_name: Clotilde030603
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # dist/github-contribution-grid-snake.svg
+            # dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?color_snake=#FFD700&color_dots=#6E5537, #6E5537, #A9C07D, #C3D7A8, #FFD700, #FFD700, #FFD700
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
@@ -41,8 +42,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.gh_TOKEN }}
-            
-            
-          
-
-    

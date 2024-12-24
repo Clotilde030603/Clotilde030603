@@ -40,6 +40,6 @@ Here are some ideas to get you started:
            /> </div> 
     </div>
 <div align="center">
-    <img src="https://github.com/Clotilde030603/Clotilde030603/blob/output/github-contribution-grid-snake.svg">
+    <img src="https://github.com/Clotilde030603/Clotilde030603/blob/output/github-snake-dark.svg">
 </div>
     

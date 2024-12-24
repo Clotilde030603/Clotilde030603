@@ -32,6 +32,7 @@ jobs:
             # dist/github-contribution-grid-snake.svg
             # dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-snake-dark.svg?color_snake=#8B7355&color_dots=#2C1810, #543225, #8B5A2B, #B8860B, #CD853F, #DEB887
+            
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

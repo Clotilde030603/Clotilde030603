@@ -39,4 +39,7 @@ Here are some ideas to get you started:
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clotilde030603&layout=compact&bg_color=60,d9f5d1,accc94&title_color=6fa76c&text_color=6fa76c"
            /> </div> 
     </div>
+<div align="center">
+    <img src="https://github.com/Clotilde030603/Clotilde030603/blob/output/github-contribution-grid-snake.svg">
+</div>
     

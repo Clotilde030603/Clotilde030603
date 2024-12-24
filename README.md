@@ -23,15 +23,15 @@ Here are some ideas to get you started:
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
-        <img src="https://img.shields.io/badge/Python-3776AB?style=social&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=social&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/GitHub Pages-222222?style=social&logo=GitHub Pages&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=social&logo=Notion&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
           </div>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://learntoflyclotilde.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=social&logo=Tistory&logoColor=white&link=https://learntoflyclotilde.tistory.com/"> </a>
+    <div align= "center"> <a href=https://learntoflyclotilde.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://learntoflyclotilde.tistory.com/"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>

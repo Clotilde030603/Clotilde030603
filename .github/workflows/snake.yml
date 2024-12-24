@@ -31,9 +31,7 @@ jobs:
           outputs: |
             # dist/github-contribution-grid-snake.svg
             # dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-snake-dark.svg?color_snake=#D1B38C&color_dots=#423F3C, #6D6865, #948F8B, #B7B3AF, #C9C6C2, #DDDAD7, #E5C65B, #9CBF68
-            
-      # push the content of <build_dir> to a branch
+            dist/github-snake-dark.svg?color_snake=#D8D8D8C&color_dots=#F7F5F3, #99918C, #A19791, #D8D8D8, #FFFFFF
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

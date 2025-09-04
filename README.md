@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://learntoflyclotilde.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://learntoflyclotilde.tistory.com/"> </a>
-         <a href=https://low-hare-4b9.notion.site/Hi-I-m-Gahyun-167fb795d5ab8084b70dfa0fae89a770?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Hi-I-m-Gahyun-167fb795d5ab8084b70dfa0fae89a770?pvs=4"> </a>
+         <a href=https://low-hare-4b9.notion.site/Portfolio-167fb795d5ab8084b70dfa0fae89a770?pvs=73> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Hi-I-m-Gahyun-167fb795d5ab8084b70dfa0fae89a770?pvs=4"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>

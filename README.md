@@ -27,8 +27,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
-        <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
     </div>
     </div>
     

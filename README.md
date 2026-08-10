@@ -40,23 +40,22 @@ Here are some ideas to get you started:
     <div align= "center">  </div> 
     </div>
 
-<div align="center"> 
+<div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
     🏅 Stats
   </h2>
 
-  <br/>
+  <br />
 
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Clotilde030603&show_icons=true&bg_color=0d1117&title_color=9be9a8&text_color=c9d1d9&icon_color=9be9a8&border_color=30363d"
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Clotilde030603&show_icons=true&bg_color=0d1117&title_color=9be9a8&text_color=c9d1d9&icon_color=9be9a8&border_color=30363d"
     height="165"
   />
 
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Clotilde030603&layout=compact&bg_color=0d1117&title_color=9be9a8&text_color=c9d1d9&border_color=30363d"
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Clotilde030603&layout=compact&bg_color=0d1117&title_color=9be9a8&text_color=c9d1d9&border_color=30363d"
     height="165"
   />
-
 </div>
     
 <div align="center">

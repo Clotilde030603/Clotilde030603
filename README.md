@@ -48,12 +48,12 @@ Here are some ideas to get you started:
   <br />
 
   <img
-    src="https://github-stats-extended.vercel.app/api?username=Clotilde030603&show_icons=true&bg_color=0d1117&title_color=c4d6b0&text_color=b7c9a5&icon_color=9caf88&border_color=30363d"
+    src="https://github-stats-extended.vercel.app/api?username=Clotilde030603&show_icons=true&bg_color=0d1117&title_color=f0f6fc&text_color=b1bac4&icon_color=9caf88&border_color=30363d"
     height="165"
   />
 
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Clotilde030603&layout=compact&bg_color=0d1117&title_color=c4d6b0&text_color=b7c9a5&border_color=30363d"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Clotilde030603&layout=compact&bg_color=0d1117&title_color=f0f6fc&text_color=b1bac4&border_color=30363d"
     height="165"
   />
 </div>

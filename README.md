@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 <div align= "center">
     <img src="assets/dorami-sakura-clover-v5.svg" width="100%" alt="Dorami's GitHub with falling matcha clovers and cherry blossoms" />
     </div>
-    <div align="center">
+
+<img align="left" src="assets/sakura-clover-rain.svg" width="48" height="780" alt="" />
+<img align="right" src="assets/sakura-clover-rain-alt.svg" width="48" height="780" alt="" />
+
+<div align="center">
   <h3>🍀 About Me</h3>
   <p>안녕하세요!</p>
 </div>
@@ -66,7 +70,9 @@ Here are some ideas to get you started:
     height="165"
   />
 </div>
-    
+
+<br clear="all" />
+
 <div align="center">
     <img src="https://github.com/Clotilde030603/Clotilde030603/blob/output/github-snake-dark.svg">
 </div>

@@ -17,13 +17,12 @@ Here are some ideas to get you started:
     <img src="assets/dorami-sakura-clover-v7.svg" width="100%" alt="Dorami's GitHub with falling matcha clovers and cherry blossoms" />
     </div>
 
-<img align="left" src="assets/sakura-clover-rain.svg" width="48" height="780" alt="" />
-<img align="right" src="assets/sakura-clover-rain-alt.svg" width="48" height="780" alt="" />
-
 <div align="center">
   <h3>🍀 About Me</h3>
   <p>안녕하세요!</p>
 </div>
+
+<img src="assets/profile-rain-strip.svg" width="100%" alt="" />
 
 <hr />
 
@@ -36,6 +35,8 @@ Here are some ideas to get you started:
   </p>
 </div>
 
+<img src="assets/profile-rain-strip.svg" width="100%" alt="" />
+
 <hr />
 
 <div align="center">
@@ -46,6 +47,8 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/gahyun-lee-90449331a" style="text-decoration:none"><img src="https://img.shields.io/badge/LinkedIn-71866D?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 </div>
+
+<img src="assets/profile-rain-strip.svg" width="100%" alt="" />
 
 <hr />
 
@@ -65,7 +68,7 @@ Here are some ideas to get you started:
   />
 </div>
 
-<br clear="all" />
+<img src="assets/profile-rain-strip.svg" width="100%" alt="" />
 
 <div align="center">
     <img src="https://github.com/Clotilde030603/Clotilde030603/blob/output/github-snake-dark.svg">

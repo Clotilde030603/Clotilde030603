@@ -17,12 +17,12 @@ Here are some ideas to get you started:
     <img src="assets/dorami-clover-matcha.svg" width="100%" alt="Dorami's GitHub with falling four-leaf clovers" />
     </div>
     <div align="center">
-  <h3>About Me</h3>
+  <h3>🍀 About Me</h3>
   <p>안녕하세요!</p>
 </div>
 
 <div align="center">
-  <h3>Tech Stack</h3>
+  <h3>🍀 Tech Stack</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-71866D?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/HTML5-71866D?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <h3>Contact</h3>
+  <h3>🍀 Contact</h3>
   <p>
     <a href="https://learntoflyclotilde.tistory.com/">
       <img src="https://img.shields.io/badge/Tistory-71866D?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" />
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <h3>GitHub Stats</h3>
+  <h3>🍀 GitHub Stats</h3>
 
   <br />
 

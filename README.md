@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-    <img src="assets/dorami-sakura-clover.svg" width="100%" alt="Dorami's GitHub with falling matcha clovers and cherry blossoms" />
+    <img src="assets/dorami-sakura-clover-v5.svg" width="100%" alt="Dorami's GitHub with falling matcha clovers and cherry blossoms" />
     </div>
     <div align="center">
   <h3>🍀 About Me</h3>

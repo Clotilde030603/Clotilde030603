@@ -1,60 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Dorami's GitHub</title>
-  <desc id="desc">Dorami's GitHub with elegant four-leaf clovers drifting across a soft botanical background.</desc>
+  <desc id="desc">A bold matcha green banner with a large four-leaf clover and smaller clovers drifting down.</desc>
   <defs>
-    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#f5f4ed" />
-      <stop offset=".55" stop-color="#eff1e8" />
-      <stop offset="1" stop-color="#e8eee4" />
+    <linearGradient id="matcha" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#edf2e3" />
+      <stop offset="1" stop-color="#dce8d1" />
     </linearGradient>
     <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#83a879" />
-      <stop offset="1" stop-color="#527858" />
+      <stop offset="0" stop-color="#86a975" />
+      <stop offset="1" stop-color="#52794e" />
     </linearGradient>
     <g id="clover">
-      <g fill="url(#leaf)" stroke="#4f7456" stroke-width=".65" stroke-linejoin="round">
+      <g fill="url(#leaf)" stroke="#456d49" stroke-width=".7" stroke-linejoin="round">
         <path d="M0 0 C-7-3-14-10-11-17 C-8-24 0-22 0-16 C0-22 8-24 11-17 C14-10 7-3 0 0Z" />
         <path d="M0 0 C-7-3-14-10-11-17 C-8-24 0-22 0-16 C0-22 8-24 11-17 C14-10 7-3 0 0Z" transform="rotate(90)" />
         <path d="M0 0 C-7-3-14-10-11-17 C-8-24 0-22 0-16 C0-22 8-24 11-17 C14-10 7-3 0 0Z" transform="rotate(180)" />
         <path d="M0 0 C-7-3-14-10-11-17 C-8-24 0-22 0-16 C0-22 8-24 11-17 C14-10 7-3 0 0Z" transform="rotate(270)" />
       </g>
-      <g fill="none" stroke="#dce8d5" stroke-width="1.15" stroke-linecap="round" opacity=".8">
+      <g fill="none" stroke="#dce9d3" stroke-width="1.15" stroke-linecap="round" opacity=".9">
         <path d="M0-2 Q0-9 0-17" />
         <path d="M2 0 Q9 0 17 0" />
         <path d="M0 2 Q0 9 0 17" />
         <path d="M-2 0 Q-9 0-17 0" />
       </g>
-      <path d="M0 0 Q4 9 12 15" fill="none" stroke="#527858" stroke-width="2" stroke-linecap="round" />
+      <path d="M0 0 Q5 10 14 17" fill="none" stroke="#456d49" stroke-width="2.2" stroke-linecap="round" />
     </g>
   </defs>
-  <rect width="1200" height="300" rx="28" fill="url(#paper)" />
-  <rect x="1" y="1" width="1198" height="298" rx="27" fill="none" stroke="#ffffff" stroke-opacity=".72" stroke-width="2" />
-  <path d="M42 48 H230 M970 252 H1158" fill="none" stroke="#8da386" stroke-opacity=".32" stroke-width="1" />
-  <g fill="#a8b89d" opacity=".62">
-    <circle cx="231" cy="48" r="2.2" /><circle cx="969" cy="252" r="2.2" />
-  </g>
-  <g fill="none" stroke="#93a88c" stroke-width="1.5" stroke-linecap="round" opacity=".38">
-    <path d="M65 244 C104 218 112 187 109 161" />
-    <path d="M1135 56 C1097 81 1089 112 1092 139" />
-  </g>
-  <g fill="#9bae91" opacity=".42">
-    <ellipse cx="91" cy="215" rx="7" ry="14" transform="rotate(-42 91 215)" />
-    <ellipse cx="105" cy="190" rx="6" ry="12" transform="rotate(22 105 190)" />
-    <ellipse cx="1109" cy="85" rx="7" ry="14" transform="rotate(138 1109 85)" />
-    <ellipse cx="1095" cy="110" rx="6" ry="12" transform="rotate(202 1095 110)" />
-  </g>
-  <g fill="#c4a978" opacity=".7">
-    <path d="M282 93 l2.2 5.8 5.8 2.2-5.8 2.2-2.2 5.8-2.2-5.8-5.8-2.2 5.8-2.2z" />
-    <path d="M919 200 l1.8 4.7 4.7 1.8-4.7 1.8-1.8 4.7-1.8-4.7-4.7-1.8 4.7-1.8z" />
-    <circle cx="332" cy="218" r="2" /><circle cx="866" cy="82" r="2" />
-  </g>
+  <rect width="1200" height="300" rx="28" fill="url(#matcha)" />
+  <rect x="1" y="1" width="1198" height="298" rx="27" fill="none" stroke="#f8faF3" stroke-opacity=".86" stroke-width="2" />
+  <circle cx="210" cy="150" r="94" fill="#cbdcbe" opacity=".62" />
   <g font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" text-anchor="middle">
-    <text x="600" y="165" font-size="68" font-weight="720" letter-spacing="-2.4" fill="#34523b">Dorami's GitHub</text>
+    <text x="704" y="166" font-size="66" font-weight="740" letter-spacing="-2.2" fill="#304d35">Dorami's GitHub</text>
   </g>
+  <g transform="translate(210 140) scale(2.75)"><use href="#clover" /></g>
   <g opacity=".96">
-    <g><animateTransform attributeName="transform" type="translate" values="160 -34;190 334" dur="9s" repeatCount="indefinite" /><animateTransform attributeName="transform" type="rotate" values="-18 160 140;342 160 140" dur="9s" repeatCount="indefinite" additive="sum" /><g transform="scale(1.05)"><use href="#clover" /></g></g>
-    <g><animateTransform attributeName="transform" type="translate" values="340 -38;315 334" dur="11s" begin="-5s" repeatCount="indefinite" /><g transform="scale(.78)"><use href="#clover" /></g></g>
-    <g><animateTransform attributeName="transform" type="translate" values="860 -36;890 334" dur="10s" begin="-2s" repeatCount="indefinite" /><g transform="scale(.92)"><use href="#clover" /></g></g>
-    <g><animateTransform attributeName="transform" type="translate" values="1050 -40;1020 334" dur="12s" begin="-7s" repeatCount="indefinite" /><g transform="scale(.72)"><use href="#clover" /></g></g>
+    <g><animateTransform attributeName="transform" type="translate" values="365 -42;390 335" dur="10s" repeatCount="indefinite" /><g><animateTransform attributeName="transform" type="rotate" values="-14;346" dur="10s" repeatCount="indefinite" /><g transform="scale(.9)"><use href="#clover" /></g></g></g>
+    <g><animateTransform attributeName="transform" type="translate" values="1080 -38;1060 335" dur="11s" begin="-4s" repeatCount="indefinite" /><g transform="scale(1.05)"><use href="#clover" /></g></g>
+    <g><animateTransform attributeName="transform" type="translate" values="1125 -40;1145 335" dur="9s" begin="-6s" repeatCount="indefinite" /><g transform="scale(.72)"><use href="#clover" /></g></g>
   </g>
 </svg>

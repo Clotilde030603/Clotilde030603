@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-    <img src="assets/dorami-clover-banner.svg?v=2" width="100%" alt="Dorami's GitHub with falling four-leaf clovers" />
+    <img src="assets/dorami-clover-banner.svg?v=3" width="100%" alt="Dorami's GitHub with falling four-leaf clovers" />
     </div>
     <div align="center">
-  <h3>🍃 About Me</h3>
+  <h3>About Me</h3>
   <p>안녕하세요!</p>
 </div>
 
 <div align="center">
-  <h3>🍃 Tech Stack</h3>
+  <h3>Tech Stack</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-71866D?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/HTML5-71866D?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <h3>🍃 Contact</h3>
+  <h3>Contact</h3>
   <p>
     <a href="https://learntoflyclotilde.tistory.com/">
       <img src="https://img.shields.io/badge/Tistory-71866D?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" />
@@ -46,17 +46,17 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <h3>🍃 GitHub Stats</h3>
+  <h3>GitHub Stats</h3>
 
   <br />
 
   <img
-    src="https://github-stats-extended.vercel.app/api?username=Clotilde030603&show_icons=true&bg_color=0d1117&title_color=f0f6fc&text_color=b1bac4&icon_color=9caf88&border_color=30363d"
+    src="https://github-stats-extended.vercel.app/api?username=Clotilde030603&show_icons=true&bg_color=0d1117&title_color=c4d6b0&text_color=b7c9a5&icon_color=9caf88&border_color=30363d"
     height="165"
   />
 
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Clotilde030603&layout=compact&bg_color=0d1117&title_color=f0f6fc&text_color=b1bac4&border_color=30363d"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Clotilde030603&layout=compact&bg_color=0d1117&title_color=c4d6b0&text_color=b7c9a5&border_color=30363d"
     height="165"
   />
 </div>

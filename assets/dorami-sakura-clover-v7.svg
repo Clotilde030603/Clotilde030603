@@ -33,8 +33,7 @@
     <g transform="translate(485 25)"><animateTransform attributeName="transform" type="translate" values="485 25;500 330" dur="9s" begin="-6s" repeatCount="indefinite" /><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.06;.72;.82" dur="9s" begin="-6s" repeatCount="indefinite" /><g transform="rotate(-18)"><animateTransform attributeName="transform" type="rotate" values="-18;342" dur="9s" begin="-6s" repeatCount="indefinite" /><g transform="scale(.55)"><use href="#petalFall" /></g></g></g>
     <g transform="translate(760 25)"><animateTransform attributeName="transform" type="translate" values="760 25;735 330" dur="7.5s" begin="-4s" repeatCount="indefinite" /><animate attributeName="opacity" values="0;.8;.8;0" keyTimes="0;.06;.72;.82" dur="7.5s" begin="-4s" repeatCount="indefinite" /><g transform="rotate(18)"><animateTransform attributeName="transform" type="rotate" values="18;378" dur="7.5s" begin="-4s" repeatCount="indefinite" /><g transform="scale(.65)"><use href="#petalFall" /></g></g></g>
   </g>
-  <g transform="translate(220 137) scale(2.5)"><text x="0" y="16" text-anchor="middle" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" font-size="46">🍀</text></g>
   <g font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" text-anchor="middle">
-    <text x="720" y="165" font-size="66" font-weight="740" letter-spacing="-2.2" fill="#dcebd0">Dorami's GitHub</text>
+    <text x="600" y="165" font-size="66" font-weight="740" letter-spacing="-2.2" fill="#dcebd0">Dorami's GitHub</text>
   </g>
 </svg>

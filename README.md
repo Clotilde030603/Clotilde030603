@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-    <img src="assets/dorami-sakura-clover-v6.svg" width="100%" alt="Dorami's GitHub with falling matcha clovers and cherry blossoms" />
+    <img src="assets/dorami-sakura-clover-v7.svg" width="100%" alt="Dorami's GitHub with falling matcha clovers and cherry blossoms" />
     </div>
 
 <img align="left" src="assets/sakura-clover-rain.svg" width="48" height="780" alt="" />

@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h3><img src="assets/clover-matcha.png" width="22" height="22" alt="" /> About Me</h3>
-  <p>안녕하세요!</p>
+  <p>안녕하세요! Dorami 입니다!</p>
 </div>
 
 <hr />

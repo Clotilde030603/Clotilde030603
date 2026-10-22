@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Dorami's GitHub</title>
+  <desc id="desc">Matcha clovers and cherry blossoms falling across a transparent dark background.</desc>
+  <defs>
+    <linearGradient id="petal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe4e8" />
+      <stop offset="1" stop-color="#efaebe" />
+    </linearGradient>
+    <g id="blossom" fill="url(#petal)" stroke="#f4c7d0" stroke-width=".6">
+      <path d="M0 0 C-5-4-7-12-3-16 C-1-19 1-19 3-16 C7-12 5-4 0 0Z" />
+      <path d="M0 0 C-5-4-7-12-3-16 C-1-19 1-19 3-16 C7-12 5-4 0 0Z" transform="rotate(72)" />
+      <path d="M0 0 C-5-4-7-12-3-16 C-1-19 1-19 3-16 C7-12 5-4 0 0Z" transform="rotate(144)" />
+      <path d="M0 0 C-5-4-7-12-3-16 C-1-19 1-19 3-16 C7-12 5-4 0 0Z" transform="rotate(216)" />
+      <path d="M0 0 C-5-4-7-12-3-16 C-1-19 1-19 3-16 C7-12 5-4 0 0Z" transform="rotate(288)" />
+      <circle r="2.2" fill="#f4d693" stroke="none" />
+    </g>
+    <path id="petalFall" d="M0-10 C-7-5-6 3 0 8 C6 3 7-5 0-10Z" fill="url(#petal)" />
+    <linearGradient id="bottomFade" x1="0" y1="0" x2="0" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="white" />
+      <stop offset=".78" stop-color="white" />
+      <stop offset=".9" stop-color="#777" />
+      <stop offset="1" stop-color="black" />
+    </linearGradient>
+    <mask id="fadeAtBottom" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="300">
+      <rect width="1200" height="300" fill="url(#bottomFade)" />
+    </mask>
+  </defs>
+  <g mask="url(#fadeAtBottom)">
+    <g>
+    <g transform="translate(370 55)"><animateTransform attributeName="transform" type="translate" values="370 55;390 330" dur="10s" repeatCount="indefinite" /><animate attributeName="opacity" values="0;1;1" keyTimes="0;.12;1" dur="10s" repeatCount="indefinite" /><g transform="rotate(-12)"><animateTransform attributeName="transform" type="rotate" values="-12;348" dur="10s" repeatCount="indefinite" /><g transform="scale(.78)"><text x="0" y="16" text-anchor="middle" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" font-size="46">🍀</text></g></g></g>
+    <g transform="translate(1040 55)"><animateTransform attributeName="transform" type="translate" values="1040 55;1060 330" dur="11s" begin="-4s" repeatCount="indefinite" /><animate attributeName="opacity" values="0;1;1" keyTimes="0;.12;1" dur="11s" begin="-4s" repeatCount="indefinite" /><g transform="scale(.9)"><text x="0" y="16" text-anchor="middle" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" font-size="46">🍀</text></g></g>
+    <g transform="translate(1140 55)"><animateTransform attributeName="transform" type="translate" values="1140 55;1120 330" dur="9s" begin="-6s" repeatCount="indefinite" /><animate attributeName="opacity" values="0;1;1" keyTimes="0;.12;1" dur="9s" begin="-6s" repeatCount="indefinite" /><g transform="scale(.66)"><text x="0" y="16" text-anchor="middle" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" font-size="46">🍀</text></g></g>
+    <g transform="translate(820 70)"><animateTransform attributeName="transform" type="translate" values="820 70;790 330" dur="12s" begin="-3s" repeatCount="indefinite" /><animate attributeName="opacity" values="0;1;1" keyTimes="0;.12;1" dur="12s" begin="-3s" repeatCount="indefinite" /><g transform="scale(.56)"><text x="0" y="16" text-anchor="middle" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" font-size="46">🍀</text></g></g>
+  </g>
+  <g>
+    <g transform="translate(75 25)"><animateTransform attributeName="transform" type="translate" values="75 25;105 330" dur="8s" begin="-2s" repeatCount="indefinite" /><animate attributeName="opacity" values="0;1;1" keyTimes="0;.1;1" dur="8s" begin="-2s" repeatCount="indefinite" /><g transform="scale(.75)"><g transform="rotate(8)"><animateTransform attributeName="transform" type="rotate" values="8;368" dur="8s" begin="-2s" repeatCount="indefinite" /><use href="#blossom" /></g></g></g>
+    <g transform="translate(1090 25)"><animateTransform attributeName="transform" type="translate" values="1090 25;1060 330" dur="9s" begin="-5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0;1;1" keyTimes="0;.1;1" dur="9s" begin="-5s" repeatCount="indefinite" /><g transform="scale(.7)"><g transform="rotate(-8)"><animateTransform attributeName="transform" type="rotate" values="-8;352" dur="9s" begin="-5s" repeatCount="indefinite" /><use href="#blossom" /></g></g></g>
+    <g transform="translate(620 25)"><animateTransform attributeName="transform" type="translate" values="620 25;640 330" dur="12s" begin="-7s" repeatCount="indefinite" /><animate attributeName="opacity" values="0;1;1" keyTimes="0;.1;1" dur="12s" begin="-7s" repeatCount="indefinite" /><g transform="scale(.68)"><use href="#blossom" /></g></g>
+  </g>
+  <g>
+    <g transform="translate(340 25)"><animateTransform attributeName="transform" type="translate" values="340 25;370 330" dur="7s" begin="-3s" repeatCount="indefinite" /><animate attributeName="opacity" values="0;1;1" keyTimes="0;.1;1" dur="7s" begin="-3s" repeatCount="indefinite" /><g transform="rotate(-20)"><animateTransform attributeName="transform" type="rotate" values="-20;340" dur="7s" begin="-3s" repeatCount="indefinite" /><g transform="scale(.65)"><use href="#petalFall" /></g></g></g>
+    <g transform="translate(965 25)"><animateTransform attributeName="transform" type="translate" values="965 25;940 330" dur="8.5s" begin="-1s" repeatCount="indefinite" /><animate attributeName="opacity" values="0;1;1" keyTimes="0;.1;1" dur="8.5s" begin="-1s" repeatCount="indefinite" /><g transform="rotate(25)"><animateTransform attributeName="transform" type="rotate" values="25;385" dur="8.5s" begin="-1s" repeatCount="indefinite" /><g transform="scale(.75)"><use href="#petalFall" /></g></g></g>
+    <g transform="translate(485 25)"><animateTransform attributeName="transform" type="translate" values="485 25;500 330" dur="9s" begin="-6s" repeatCount="indefinite" /><animate attributeName="opacity" values="0;1;1" keyTimes="0;.1;1" dur="9s" begin="-6s" repeatCount="indefinite" /><g transform="rotate(-18)"><animateTransform attributeName="transform" type="rotate" values="-18;342" dur="9s" begin="-6s" repeatCount="indefinite" /><g transform="scale(.55)"><use href="#petalFall" /></g></g></g>
+    <g transform="translate(760 25)"><animateTransform attributeName="transform" type="translate" values="760 25;735 330" dur="7.5s" begin="-4s" repeatCount="indefinite" /><animate attributeName="opacity" values="0;1;1" keyTimes="0;.1;1" dur="7.5s" begin="-4s" repeatCount="indefinite" /><g transform="rotate(18)"><animateTransform attributeName="transform" type="rotate" values="18;378" dur="7.5s" begin="-4s" repeatCount="indefinite" /><g transform="scale(.65)"><use href="#petalFall" /></g></g></g>
+  </g>
+  </g>
+  <g font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" text-anchor="middle">
+    <text x="600" y="165" font-size="66" font-weight="740" letter-spacing="-2.2" fill="#dcebd0">Dorami's GitHub</text>
+  </g>
+</svg>

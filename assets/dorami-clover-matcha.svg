@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Dorami's GitHub</title>
+  <desc id="desc">A simple matcha green banner with a prominent four-leaf clover and gently falling clovers.</desc>
+  <defs>
+    <linearGradient id="matcha" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e5edd9" />
+      <stop offset="1" stop-color="#d5e2ca" />
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#87ad73" />
+      <stop offset="1" stop-color="#456f48" />
+    </linearGradient>
+    <g id="clover">
+      <g fill="url(#leaf)" stroke="#3f6844" stroke-width=".7" stroke-linejoin="round">
+        <path d="M0 0 C-7-3-14-10-11-17 C-8-24 0-22 0-16 C0-22 8-24 11-17 C14-10 7-3 0 0Z" />
+        <path d="M0 0 C-7-3-14-10-11-17 C-8-24 0-22 0-16 C0-22 8-24 11-17 C14-10 7-3 0 0Z" transform="rotate(135)" />
+        <path d="M0 0 C-7-3-14-10-11-17 C-8-24 0-22 0-16 C0-22 8-24 11-17 C14-10 7-3 0 0Z" transform="rotate(225)" />
+        <path d="M0 0 C-7-3-14-10-11-17 C-8-24 0-22 0-16 C0-22 8-24 11-17 C14-10 7-3 0 0Z" transform="rotate(315)" />
+      </g>
+      <g fill="none" stroke="#cbdcbe" stroke-width="1.1" stroke-linecap="round" opacity=".86">
+        <path d="M0-2 Q0-9 0-17" />
+        <path d="M0-2 Q0-9 0-17" transform="rotate(135)" />
+        <path d="M0-2 Q0-9 0-17" transform="rotate(225)" />
+        <path d="M0-2 Q0-9 0-17" transform="rotate(315)" />
+      </g>
+      <path d="M0 0 Q5 10 14 17" fill="none" stroke="#3f6844" stroke-width="2.2" stroke-linecap="round" />
+    </g>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#matcha)" />
+  <rect x="1" y="1" width="1198" height="298" rx="27" fill="none" stroke="#f7f9f2" stroke-opacity=".9" stroke-width="2" />
+  <circle cx="250" cy="150" r="91" fill="#c6d9b8" opacity=".72" />
+  <g transform="translate(250 140) scale(2.9)"><use href="#clover" /></g>
+  <g font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" text-anchor="middle">
+    <text x="735" y="165" font-size="66" font-weight="740" letter-spacing="-2.2" fill="#304d35">Dorami's GitHub</text>
+  </g>
+  <g>
+    <g transform="translate(375 65)">
+      <animateTransform attributeName="transform" type="translate" values="375 -45;395 340" dur="10s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.62;.82" dur="10s" repeatCount="indefinite" />
+      <g transform="rotate(-14)"><animateTransform attributeName="transform" type="rotate" values="-14;346" dur="10s" repeatCount="indefinite" /><g transform="scale(.9)"><use href="#clover" /></g></g>
+    </g>
+    <g transform="translate(1080 100)">
+      <animateTransform attributeName="transform" type="translate" values="1080 -42;1060 340" dur="11s" begin="-4s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.62;.82" dur="11s" repeatCount="indefinite" />
+      <g transform="scale(1.05)"><use href="#clover" /></g>
+    </g>
+    <g transform="translate(1120 180)">
+      <animateTransform attributeName="transform" type="translate" values="1120 -42;1140 340" dur="9s" begin="-6s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.62;.82" dur="9s" repeatCount="indefinite" />
+      <g transform="scale(.72)"><use href="#clover" /></g>
+    </g>
+  </g>
+</svg>

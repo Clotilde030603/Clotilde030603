@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-    <img src="assets/dorami-clover-banner.svg?v=3" width="100%" alt="Dorami's GitHub with falling four-leaf clovers" />
+    <img src="assets/dorami-clover-matcha.svg" width="100%" alt="Dorami's GitHub with falling four-leaf clovers" />
     </div>
     <div align="center">
   <h3>About Me</h3>

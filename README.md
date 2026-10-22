@@ -16,34 +16,37 @@ Here are some ideas to get you started:
 <div align= "center">
     <img src="assets/dorami-clover-banner.svg?v=2" width="100%" alt="Dorami's GitHub with falling four-leaf clovers" />
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Introduction💚 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 안녕하세요! </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> 
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
-    </div>
-    </div>
-    
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://learntoflyclotilde.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://learntoflyclotilde.tistory.com/"> </a>
-         <a href=https://low-hare-4b9.notion.site/Portfolio-167fb795d5ab8084b70dfa0fae89a770?pvs=73> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Hi-I-m-Gahyun-167fb795d5ab8084b70dfa0fae89a770?pvs=4"> </a>
-        <a href="https://www.linkedin.com/in/gahyun-lee-90449331a">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
-    </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
+    <div align="center">
+  <h3>🍃 About Me</h3>
+  <p>안녕하세요!</p>
+</div>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
-    🏅 Stats
-  </h2>
+  <h3>🍃 Tech Stack</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-71866D?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/HTML5-71866D?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-71866D?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  </p>
+</div>
+
+<div align="center">
+  <h3>🍃 Contact</h3>
+  <p>
+    <a href="https://learntoflyclotilde.tistory.com/">
+      <img src="https://img.shields.io/badge/Tistory-71866D?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" />
+    </a>
+    <a href="https://low-hare-4b9.notion.site/Portfolio-167fb795d5ab8084b70dfa0fae89a770?pvs=73">
+      <img src="https://img.shields.io/badge/Notion-71866D?style=flat-square&logo=notion&logoColor=white" alt="Notion portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/gahyun-lee-90449331a">
+      <img src="https://img.shields.io/badge/LinkedIn-71866D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <h3>🍃 GitHub Stats</h3>
 
   <br />
 

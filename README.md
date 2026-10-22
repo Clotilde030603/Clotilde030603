@@ -14,21 +14,21 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-    <img src="assets/dorami-sakura-clover-v9.svg" width="100%" alt="Dorami's GitHub with falling matcha clovers and cherry blossoms" />
+    <img src="assets/dorami-sakura-clover-v10.svg" width="100%" alt="Dorami's GitHub with falling matcha clovers and cherry blossoms" />
     </div>
 
 <img align="left" src="assets/sakura-clover-rain.svg" width="48" height="780" alt="" />
 <img align="right" src="assets/sakura-clover-rain-alt.svg" width="48" height="780" alt="" />
 
 <div align="center">
-  <h3>🍀 About Me</h3>
+  <h3><img src="assets/clover-matcha.png" width="22" height="22" alt="" /> About Me</h3>
   <p>안녕하세요!</p>
 </div>
 
 <hr />
 
 <div align="center">
-  <h3>🍀 Tech Stack</h3>
+  <h3><img src="assets/clover-matcha.png" width="22" height="22" alt="" /> Tech Stack</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-71866D?style=flat&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/HTML5-71866D?style=flat&logo=html5&logoColor=white" alt="HTML5" />&nbsp;&nbsp;&nbsp;
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <hr />
 
 <div align="center">
-  <h3>🍀 Contact</h3>
+  <h3><img src="assets/clover-matcha.png" width="22" height="22" alt="" /> Contact</h3>
   <p>
     <a href="https://learntoflyclotilde.tistory.com/" style="text-decoration:none"><img src="https://img.shields.io/badge/Tistory-71866D?style=flat&logo=tistory&logoColor=white" alt="Tistory" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://low-hare-4b9.notion.site/Portfolio-167fb795d5ab8084b70dfa0fae89a770?pvs=73" style="text-decoration:none"><img src="https://img.shields.io/badge/Notion-71866D?style=flat&logo=notion&logoColor=white" alt="Notion portfolio" /></a>&nbsp;&nbsp;&nbsp;
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <hr />
 
 <div align="center">
-  <h3>🍀 GitHub Stats</h3>
+  <h3><img src="assets/clover-matcha.png" width="22" height="22" alt="" /> GitHub Stats</h3>
 
   <br />
 

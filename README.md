@@ -17,8 +17,8 @@ Here are some ideas to get you started:
     <img src="assets/dorami-sakura-clover-v10.svg" width="100%" alt="Dorami's GitHub with falling matcha clovers and cherry blossoms" />
     </div>
 
-<img align="left" src="assets/sakura-clover-rain.svg" width="48" height="780" alt="" />
-<img align="right" src="assets/sakura-clover-rain-alt.svg" width="48" height="780" alt="" />
+<img align="left" src="assets/sakura-clover-rain-matcha.svg" width="48" height="780" alt="" />
+<img align="right" src="assets/sakura-clover-rain-matcha-alt.svg" width="48" height="780" alt="" />
 
 <div align="center">
   <h3><img src="assets/clover-matcha.png" width="22" height="22" alt="" /> About Me</h3>

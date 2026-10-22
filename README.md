@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-    <img src="assets/dorami-clover-banner.svg" width="100%" alt="Dorami's GitHub with falling four-leaf clovers" />
+    <img src="assets/dorami-clover-banner.svg?v=2" width="100%" alt="Dorami's GitHub with falling four-leaf clovers" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Introduction💚 </h2>  

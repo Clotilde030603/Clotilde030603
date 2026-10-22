@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <div align="center">
   <h3>🍀 Tech Stack</h3>
   <p>
-    <img src="https://img.shields.io/badge/Python-71866D?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/HTML5-71866D?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-71866D?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Python-71866D?style=flat&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-71866D?style=flat&logo=html5&logoColor=white" alt="HTML5" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-71866D?style=flat&logo=css3&logoColor=white" alt="CSS3" />
   </p>
 </div>
 
@@ -38,13 +38,13 @@ Here are some ideas to get you started:
   <h3>🍀 Contact</h3>
   <p>
     <a href="https://learntoflyclotilde.tistory.com/">
-      <img src="https://img.shields.io/badge/Tistory-71866D?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" />
-    </a>
+      <img src="https://img.shields.io/badge/Tistory-71866D?style=flat&logo=tistory&logoColor=white" alt="Tistory" />
+    </a>&nbsp;&nbsp;&nbsp;
     <a href="https://low-hare-4b9.notion.site/Portfolio-167fb795d5ab8084b70dfa0fae89a770?pvs=73">
-      <img src="https://img.shields.io/badge/Notion-71866D?style=flat-square&logo=notion&logoColor=white" alt="Notion portfolio" />
-    </a>
+      <img src="https://img.shields.io/badge/Notion-71866D?style=flat&logo=notion&logoColor=white" alt="Notion portfolio" />
+    </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/gahyun-lee-90449331a">
-      <img src="https://img.shields.io/badge/LinkedIn-71866D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-71866D?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 </div>

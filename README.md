@@ -21,6 +21,8 @@ Here are some ideas to get you started:
   <p>안녕하세요!</p>
 </div>
 
+<hr />
+
 <div align="center">
   <h3>🍀 Tech Stack</h3>
   <p>
@@ -29,6 +31,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/CSS3-71866D?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   </p>
 </div>
+
+<hr />
 
 <div align="center">
   <h3>🍀 Contact</h3>
@@ -44,6 +48,8 @@ Here are some ideas to get you started:
     </a>
   </p>
 </div>
+
+<hr />
 
 <div align="center">
   <h3>🍀 GitHub Stats</h3>

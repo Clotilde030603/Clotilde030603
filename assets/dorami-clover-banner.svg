@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Dorami's GitHub</title>
+  <desc id="desc">A soft matcha sky with four-leaf clovers gently falling.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e9f0df" />
+      <stop offset="1" stop-color="#cbdcbd" />
+    </linearGradient>
+    <linearGradient id="hill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a9c49b" />
+      <stop offset="1" stop-color="#8eae82" />
+    </linearGradient>
+    <g id="clover" fill="#6e9b68">
+      <ellipse cx="0" cy="-7" rx="5" ry="7" />
+      <ellipse cx="0" cy="-19" rx="5" ry="7" />
+      <ellipse cx="-7" cy="-13" rx="7" ry="5" />
+      <ellipse cx="7" cy="-13" rx="7" ry="5" />
+      <path d="M0-10 Q1 1 6 7" fill="none" stroke="#567f53" stroke-width="2" stroke-linecap="round" />
+    </g>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#sky)" />
+  <circle cx="1020" cy="66" r="34" fill="#fff7dc" opacity=".8" />
+  <g fill="#fff" opacity=".53">
+    <ellipse cx="185" cy="82" rx="64" ry="18" />
+    <ellipse cx="222" cy="72" rx="37" ry="22" />
+    <ellipse cx="1010" cy="176" rx="53" ry="15" />
+    <ellipse cx="1040" cy="166" rx="31" ry="20" />
+  </g>
+  <path d="M0 252 Q180 215 360 251 T720 245 T1200 226 V300 H0Z" fill="url(#hill)" opacity=".82" />
+  <g font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" text-anchor="middle">
+    <text x="600" y="158" font-size="66" font-weight="750" letter-spacing="-2" fill="#385b3d">Dorami's GitHub</text>
+    <text x="600" y="195" font-size="17" font-weight="500" letter-spacing="3" fill="#587557">A LITTLE GARDEN OF IDEAS</text>
+  </g>
+  <g opacity=".88">
+    <g><animateTransform attributeName="transform" type="translate" values="145 -24;165 330" dur="8s" repeatCount="indefinite" /><animateTransform attributeName="transform" type="rotate" values="0 145 150;360 145 150" dur="8s" repeatCount="indefinite" additive="sum" /><g transform="scale(.8)"><use href="#clover" /></g></g>
+    <g><animateTransform attributeName="transform" type="translate" values="365 -30;335 330" dur="10s" begin="-4s" repeatCount="indefinite" /><g transform="scale(.62)"><use href="#clover" /></g></g>
+    <g><animateTransform attributeName="transform" type="translate" values="805 -26;835 330" dur="9s" begin="-2s" repeatCount="indefinite" /><g transform="scale(.72)"><use href="#clover" /></g></g>
+    <g><animateTransform attributeName="transform" type="translate" values="1080 -32;1050 330" dur="11s" begin="-6s" repeatCount="indefinite" /><g transform="scale(.58)"><use href="#clover" /></g></g>
+  </g>
+</svg>

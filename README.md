@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=bad9af&height=240&text=Clotilde's%20GitHub👋&animation=twinkling&fontColor=ffffff&fontSize=60" />
+    <img src="assets/dorami-clover-banner.svg" width="100%" alt="Dorami's GitHub with falling four-leaf clovers" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Introduction💚 </h2>  
@@ -48,12 +48,12 @@ Here are some ideas to get you started:
   <br />
 
   <img
-    src="https://github-stats-extended.vercel.app/api?username=Clotilde030603&show_icons=true&bg_color=0d1117&title_color=9be9a8&text_color=c9d1d9&icon_color=9be9a8&border_color=30363d"
+    src="https://github-stats-extended.vercel.app/api?username=Clotilde030603&show_icons=true&bg_color=0d1117&title_color=c4d6b0&text_color=b7c9a5&icon_color=9caf88&border_color=30363d"
     height="165"
   />
 
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Clotilde030603&layout=compact&bg_color=0d1117&title_color=9be9a8&text_color=c9d1d9&border_color=30363d"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Clotilde030603&layout=compact&bg_color=0d1117&title_color=c4d6b0&text_color=b7c9a5&border_color=30363d"
     height="165"
   />
 </div>
